@@ -1,0 +1,16 @@
+e73fee1fd8bfc302c4beb2e1d5549932 *DESCRIPTION
+b5b2e20c75457107297b566908b8c29d *NAMESPACE
+b32d5453f340dd4009ef6b261dd18172 *R/FlowSummaries.R
+10ac65023e0352c4f67bb2f6cf9f33c2 *R/GateSummaries.R
+548bb8ced6fbfda231fb95b62d9f429b *R/addAlpha.R
+202b9f7526423aac1336589edc30ec64 *R/colorCount.R
+2deeb7f29a84b405890493647a83087f *R/makeFlow.R
+7985c61220c20c78c1b3ea5f6be734b4 *build/partial.rdb
+b916a635caba87052bd199ae265560e1 *data/shelters.rda
+1dc6aa114a7ffc364e72e83a8caafddf *man/FlowSummaries.Rd
+05ce9e836f8d709893dc27309eec817f *man/GateSummaries.Rd
+941def2b5c8e23a408f8cc7d255b9664 *man/addAlpha.Rd
+714159a1266da9833ddc1d478a8996b9 *man/colorCount.Rd
+fa54201180e7cae2ff2c7ead9b1b403c *man/makeFlow-package.Rd
+7a7ef19b16d3724b2c7634e966dc316e *man/makeFlow.Rd
+15c0b39a84335d09fbd2da30e0d5c818 *man/shelters.Rd
